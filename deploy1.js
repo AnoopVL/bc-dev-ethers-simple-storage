@@ -3,6 +3,8 @@ const ethers = require("ethers");
 const fs = require("fs-extra");
 require("dotenv").config();
 
+//Test for commit
+
 async function main() {
   // const provider = new ethers.providers.JsonRpcProvider("http://172.21.16.1:7545");
   // const wallet = new ethers.Wallet(
